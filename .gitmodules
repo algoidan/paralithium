@@ -1,0 +1,3 @@
+[submodule "c-sumhash"]
+	path = c-sumhash
+	url = git@github.com:algorand/c-sumhash.git
